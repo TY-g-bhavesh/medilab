@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ang-medilab"
+    }
+  },
+  "defaultProject": "ang-medilab",
+  "cli": {
+    "analytics": "5354dd5c-d60c-4294-9780-8d16e8fe8515"
+  }
 }
